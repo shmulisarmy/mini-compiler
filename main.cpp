@@ -1,5 +1,6 @@
 #include "tokenizer.cpp"
-#include "parser.cpp"
+#include "parser/class.cpp"
+#include "parser/function.cpp"
 
 int main(){
 

@@ -1,0 +1,9 @@
+
+
+// we want a util func that we can start by a param and go until we see the next , that ins'nt in a scope
+function add(int a = add(2*8, 9), int b){
+       return a + b;
+   }
+   function say_hello(){
+       print(\"Hello!\");
+   }
